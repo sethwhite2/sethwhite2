@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sethwhite2
-- 👀 I’m interested in coffee.
-- 💥 Check back later for an updated README
+- ☕ A good cup of coffee goes a long way.
 
 <!---
 sethwhite2/sethwhite2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
